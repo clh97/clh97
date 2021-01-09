@@ -1,7 +1,7 @@
 - 🔭 I’m currently working @ TOTVS
 - 🌱 I’m currently learning K8S, Go, algorithms, information security
 - 👯 I’m looking to collaborate on open source projects
-- 🤔 I’m looking for help with
+- 🤔 I’m looking to learn new things every day
 - 💬 Ask me about software development, coffe related things
 - ⚡ Fun fact: I've been coding since 13~14 years old, I love software development and computers! :)
 - 📫 How to reach me: michel at calheiros dot dev
