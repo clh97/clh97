@@ -1,21 +1,9 @@
-### Hi there 👋
+- 🔭 I’m currently working @ TOTVS
+- 🌱 I’m currently learning K8S, Go, algorithms, information security
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with
+- 💬 Ask me about software development, coffe related things
+- ⚡ Fun fact: I've been coding since 13~14 years old, I love software development and computers! :)
+- 📫 How to reach me: michel at calheiros dot dev
 
-<!--
-**clh97/clh97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-[![Michel's github stats](https://github-readme-stats.vercel.app/api?username=clh97&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clh97&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Michel's github stats](https://github-readme-stats.vercel.app/api?username=clh97&count_private=true&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clh97&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
