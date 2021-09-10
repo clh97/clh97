@@ -1,6 +1,3 @@
-## MY WORK GITHUB:
-[@micheltotvs](https://github.com/micheltotvs)
-
 ## About
 - 🔭 I’m currently working @ TOTVS
 - 🌱 I’m currently learning kubernetes, go, algorithms, information security
