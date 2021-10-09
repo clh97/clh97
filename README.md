@@ -1,6 +1,6 @@
 ## About
-- 🔭 I’m currently working @ TOTVS
-- 🌱 I’m currently learning kubernetes, go, algorithms, information security
+- 🔭 I’m currently working @ Dextra
+- 🌱 I’m currently learning go, algorithms, information security
 - 🤔 I’m looking to learn new things every day
 - 📫 How to reach me: michel at calheiros dot dev
 
