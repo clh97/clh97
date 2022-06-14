@@ -1,6 +1,6 @@
 ## about
 - 🔭 I work at Reklaim
-- ✨ I mostly use Python (Django), NodeJS, SQL, React, React Native, styled-components, HTML, JS, CSS, bash and other technologies!
+- ✨ I mostly use NodeJS, Python, SQL, React, React Native and other technologies!
 - 🌱 I’m currently learning go, algorithms, information security
 - 🤔 I'm curious and I'm constantly learning
 - 🤓 I had my first contact with coding when I was 11 years old, since then I have been consistently studying software development
