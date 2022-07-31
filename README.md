@@ -1,7 +1,6 @@
 ## about
-- 🔭 I work at Reklaim
 - ✨ I mostly use NodeJS, Python, SQL, React, React Native and other technologies!
-- 🌱 I’m currently learning go, algorithms, information security
+- 🌱 I’m studying Go, algorithms, information security
 - 🤔 I'm curious and I'm constantly learning
 - 🤓 I had my first contact with coding when I was 11 years old, since then I have been consistently studying software development
 - 📫 How to reach me: **michel at calheiros dot dev** or through contact form on [my website](http://calheiros.dev/)
