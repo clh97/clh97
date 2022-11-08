@@ -1,5 +1,5 @@
 ## about
-- ✨ I mostly use NodeJS, Python, SQL, React, React Native and other technologies!
+- ✨ I mostly use React, Python, NodeJS, React Native and other technologies!
 - 🌱 I’m studying Go, algorithms, information security
 - 🤔 I'm curious and I'm constantly learning
 - 🤓 I had my first contact with coding when I was 11 years old, since then I have been consistently studying software development
