@@ -1,5 +1,7 @@
 ## about
-- ✨ I mostly use Node.js, Typescript, and React
+- ✨ I mostly use Node.js, TypeScript, and React
 - 🤔 I am always researching and learning
-- 🤓 I have been consistently coding since 2012
+- 🤓 Coding consistently since 2012
+- 🐧 Avid Linux user
+- 🎼 Classical guitar enthusiast
 - 📫 Reach me at **michel at calheiros dot dev**
