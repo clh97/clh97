@@ -2,13 +2,18 @@
 
 I have been doing this since forever and I'll keep doing it forever.
 
-- leveraging AI everywhere (agentic workflows / langchain / building **insane** prompts)
+**Currently into:**
+- syntax interpreters and compilers
 - building and using TUIs
-- most of my repos either miss a remote or use my local gitea
+- c++
+  - event-based engine with boost, asio
+  - syntax parsers
+  - compilers
+  - lua bindings
+  - luajit integration
 
 **Currently building with:**
-
-- node / bun
+- node / bun + express
 - python + fastapi
 - react + tanstack
 - k8s + proxmox
